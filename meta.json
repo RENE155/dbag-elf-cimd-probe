@@ -1,0 +1,10 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/RENE155/dbag-elf-cimd-probe@main/meta.json",
+  "client_name": "Security Test Bug Bounty",
+  "client_uri": "https://security-test.example.invalid",
+  "redirect_uris": ["https://webhook.site/c2380fd1-708e-4aa8-a046-a182c8d42339"],
+  "grant_types": ["authorization_code"],
+  "token_endpoint_auth_method": "none",
+  "response_types": ["code"],
+  "scope": "mcp"
+}
